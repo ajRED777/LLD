@@ -1,0 +1,7 @@
+package com.lld.game.snake_and_ladders.model;
+import lombok.Getter;
+
+@Getter
+public class Board {
+
+}
