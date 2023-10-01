@@ -15,6 +15,7 @@ public class App
         System.out.println( "Snake and Ladder test" );
         
         GameManager gm = new GameManager();
+        gm.playGame();
         
     }
 }
